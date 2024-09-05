@@ -24,7 +24,9 @@
    - **Source Trace**: For the traceability of certain supply chains.
    - **Digital Certificate**: including electronic notarization, intellectual property rights and other businesses.
 
-<img src="https://github.com/zhengwang100/DCSChain/blob/main/docs/img/architecture.png" alt="image-20240623174414295" style="zoom:50%;" />
+<p align="center">
+<img width="400" height="310" src="https://github.com/zhengwang100/DCSChain/blob/main/docs/img/architecture.png" alt="image-20240623174414295" style="zoom:50%;" />
+</p>
 
 4. **Additional mechanisms**
    - **DCS Strategy Coordinator**: Based on the DCS theory to carry out the strategy of dynamic adjustment of the relevant parameters in the system, so as to realize the system to achieve the optimal state on the DCS triangle.
