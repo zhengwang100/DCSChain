@@ -1,0 +1,34 @@
+go 1.21.5
+
+use (
+	.
+
+	./bccrypto
+	./bccrypto/merkle
+	./bccrypto/sign_sm2
+	./bccrypto/tss
+	./common/bcrequest
+
+	./common/blockchain
+	./common/client
+	./common/config
+	./common/identity
+	./common/message
+	./core/factory
+
+	./core/server
+	./core/test
+
+	./mps/basic
+	./mps/mgmt
+
+	./network/local
+	./network/p2p
+
+	./orderer/common
+	./orderer/consensus/hotstuff
+	./orderer/consensus/hotstuff2
+	./orderer/consensus/pbft
+	./orderer/core
+	./orderer/factory
+)

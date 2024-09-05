@@ -1,0 +1,23 @@
+# the local block
+/example/test/BCData/
+/BCData
+
+# windows
+*.exe
+
+# local test data and result
+*.xlsx
+*.txt
+
+# local config
+/config/
+
+# test the different sign algorithm
+/bccrypto/agg_sign/
+/bccrypto/bdn/
+
+# IdeaIDE
+.idea
+
+# VS Code
+.vscode
