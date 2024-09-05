@@ -25,7 +25,7 @@
    - **Digital Certificate**: including electronic notarization, intellectual property rights and other businesses.
 
 <p align="center">
-<img width="400" height="310" src="https://github.com/zhengwang100/DCSChain/blob/main/docs/img/architecture.png" alt="image-20240623174414295" style="zoom:50%;" />
+<img width="500" height="330" src="https://github.com/zhengwang100/DCSChain/blob/main/docs/img/architecture.png" alt="image-20240623174414295" style="zoom:50%;" />
 </p>
 
 4. **Additional mechanisms**
